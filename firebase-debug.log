@@ -1,0 +1,27 @@
+[debug] ----------------------------------------------------------------------
+[debug] Command:      c:\Workspace\work2017\snapit\nodejs\node.exe c:\Workspace\work2017\snapit\nodejs\node_modules\firebase-tools\bin\firebase serve
+[debug] CLI Version:  3.6.0
+[debug] Platform:     win32
+[debug] Node Version: v6.10.0
+[debug] Time:         Sun Apr 09 2017 02:16:47 GMT+0800 (Malay Peninsula Standard Time)
+[debug] ----------------------------------------------------------------------
+[debug] 
+[debug] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/projects/awsexp2  
+ Sun Apr 09 2017 02:16:47 GMT+0800 (Malay Peninsula Standard Time)
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://admin.firebase.com/v1/database/awsexp2/tokens  
+ Sun Apr 09 2017 02:16:48 GMT+0800 (Malay Peninsula Standard Time)
+[debug] <<< HTTP RESPONSE 200
+[info] Starting Firebase development server...
+[info] 
+[info] Project Directory: c:\Workspace\work2017\snapit\nodejs
+[debug] >>> HTTP REQUEST GET https://cloudresourcemanager.googleapis.com/v1/projects/awsexp2  
+ Sun Apr 09 2017 02:16:49 GMT+0800 (Malay Peninsula Standard Time)
+[debug] <<< HTTP RESPONSE 200
+[debug] >>> HTTP REQUEST GET https://mobilesdk-pa.googleapis.com/v1/projects/355523102188/clients/_:getWebAppConfig  
+ Sun Apr 09 2017 02:16:50 GMT+0800 (Malay Peninsula Standard Time)
+[debug] <<< HTTP RESPONSE 200
+[info] Public Directory: public
+[info] 
+[info] Server listening at: http://localhost:5000
